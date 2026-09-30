@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the manuscript below."
 title: "cbmammo-site-shift: code for diagnosing and repairing site shift in a BI-RADS concept bottleneck model for mammography"
 type: software
+license: Apache-2.0
 authors:
   - family-names: Orazayev
     given-names: Yerzhan

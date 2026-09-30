@@ -101,4 +101,4 @@ python -m pytest -q tests
 
 ## Citation and licence
 
-See `CITATION.cff`. Licence: to be added by the authors before publication (`LICENSE`).
+See `CITATION.cff`. Code licence: Apache-2.0 (see `LICENSE`). The datasets keep their own licences and data-use terms (see the table above).
