@@ -1,0 +1,15 @@
+# data, manifests, caches, weights and run outputs are never committed
+manifests/
+cache/
+runs/
+logs/
+smoke/
+results/embed/
+results_smoke/
+*.pt
+*.npz
+*.jsonl
+__pycache__/
+.pytest_cache/
+._*
+.DS_Store

@@ -1,0 +1,13 @@
+arm,bb,set,old,old_sd,new,new_sd,delta
+cb,dinov2,test_cbis_ddsm,0.7182,0.0056,0.7183,0.0054,0.0001
+cb,dinov2,test_cdd_cesm,0.7758,0.047,0.7839,0.0218,0.008
+cb,dinov2,test_cmmd,0.7399,0.0184,0.7693,0.0109,0.0294
+cb,ft2,test_cbis_ddsm,0.7234,0.0094,0.7058,0.0131,-0.0176
+cb,ft2,test_cdd_cesm,0.7875,0.0694,0.7419,0.0235,-0.0457
+cb,ft2,test_cmmd,0.7275,0.0496,0.7436,0.0253,0.0161
+opq,dinov2,test_cbis_ddsm,0.7577,0.0172,0.7642,0.0122,0.0066
+opq,dinov2,test_cdd_cesm,0.8338,0.0089,0.8238,0.0056,-0.01
+opq,dinov2,test_cmmd,0.7662,0.0034,0.7801,0.0074,0.014
+opq,ft2,test_cbis_ddsm,0.8107,0.0142,0.7969,0.0102,-0.0138
+opq,ft2,test_cdd_cesm,0.8454,0.0226,0.7974,0.0256,-0.048
+opq,ft2,test_cmmd,0.78,0.0208,0.7483,0.019,-0.0317

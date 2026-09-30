@@ -1,0 +1,40 @@
+{
+ "retro": {
+  "studies": 305,
+  "patient_groups": 304,
+  "pos_M3_M4": 51,
+  "M_counts": {
+   "1": 158,
+   "2": 96,
+   "3": 43,
+   "4": 8
+  },
+  "devices": {
+   "Agfa": 66,
+   "Siemens": 237,
+   "other": 2
+  },
+  "breasts": 609,
+  "mlo_fallback_breasts": 0
+ },
+ "outpatient": {
+  "breasts": 31,
+  "pos_M6": 7,
+  "patient_groups": 31,
+  "duplicate_breasts_excluded": 1
+ },
+ "sided_registry_any_group": {
+  "breasts": 31,
+  "pos_M6": 7,
+  "by_group": {
+   "outpatient": 31
+  }
+ },
+ "post_nact_duplicates_excluded": 0,
+ "post_nact": {
+  "cancer_breasts_high_quality": 75,
+  "residual": 67,
+  "complete": 8,
+  "with_regression_pct": 58
+ }
+}

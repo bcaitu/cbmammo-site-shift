@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript below."
+title: "cbmammo-site-shift: code for diagnosing and repairing site shift in a BI-RADS concept bottleneck model for mammography"
+type: software
+authors:
+  - family-names: Orazayev
+    given-names: Yerzhan
+    email: y.orazayev@astanait.edu.kz
+    affiliation: "Science and Innovation Center 'Artificial Intelligence', Astana IT University, Astana, Kazakhstan"
+  - family-names: Abdikenov
+    given-names: Beibit
+    email: beibit.abdikenov@astanait.edu.kz
+    affiliation: "Science and Innovation Center 'Artificial Intelligence', Astana IT University, Astana, Kazakhstan"
+preferred-citation:
+  type: article
+  title: "Diagnosing and Repairing Site Shift in a BI-RADS Concept Bottleneck Model for Mammography: A Multi-Cohort Evaluation"
+  authors:
+    - family-names: Orazayev
+      given-names: Yerzhan
+    - family-names: Abdikenov
+      given-names: Beibit
+  status: in-preparation
+  year: 2026
